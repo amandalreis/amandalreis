@@ -1,9 +1,9 @@
 ### Olá, sou Amanda Reis! 👋
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/euamandalreis_?igshid=YmMyMTA2M2Y)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/euamandalreis)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euamandalreis)
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=amandalreis&show_icons=true&theme=gotham" alt="amandalreis" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=amandalreiss&show_icons=true&theme=gotham" alt="amandalreis" />
 
 <!--
 **amandalreis/amandalreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
