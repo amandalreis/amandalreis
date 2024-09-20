@@ -1,5 +1,5 @@
 ## Olá, sou a Amanda! 👋
-- Desenvolvedora Back-end .NET;
+- Desenvolvedora .NET;
 - Graduanda em Sistemas de Informação - UFRA;
 - Desenvolvedora Back-end .NET na GregHub.
 
