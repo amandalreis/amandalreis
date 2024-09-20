@@ -1,7 +1,7 @@
 ## Olá, sou a Amanda! 👋
 - Desenvolvedora .NET;
 - Graduanda em Sistemas de Informação - UFRA;
-- Desenvolvedora Back-end .NET na GregHub.
+- Desenvolvedora Back-end .NET na [GregHub](https://www.greghub.com.br/).
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amandalreis@me.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/euamandalreis)
